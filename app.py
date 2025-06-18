@@ -43,7 +43,7 @@ class QueryResponse(BaseModel):
     links: List[LinkInfo]
 
 # Initialize FastAPI app
-app = FastAPI(title="RAG Query API", description="API for querying the RAG knowledge base")
+app = FastAPI(title="TDS Query API", description="API for querying the TDS knowledge base")
 
 # Add CORS middleware
 app.add_middleware(
