@@ -15,7 +15,4 @@ A virtual Teaching Assistant (TA) that answers questions about the Tools in Data
 - ✅ Provides source links to the original posts
 - ✅ Compatible with `promptfoo` evaluation format
 
----
-
-## 🗂️ Project Structure
 
